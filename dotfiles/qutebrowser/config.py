@@ -219,11 +219,11 @@ c.colors.completion.item.selected.bg = '#005577'
 
 # Top border color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.border.top = '#eeeeee'
+c.colors.completion.item.selected.border.top = '#005577'
 
 # Bottom border color of the selected completion item.
 # Type: QssColor
-c.colors.completion.item.selected.border.bottom = '#eeeeee'
+c.colors.completion.item.selected.border.bottom = '#005577'
 
 # Foreground color of the matched text in the selected completion item.
 # Type: QtColor
