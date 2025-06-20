@@ -1,4 +1,5 @@
-set font "terminus 9"
+set recolor true
+set font "terminus 10"
 set selection-clipboard clipboard
 
 set completion-bg               "#222222"
